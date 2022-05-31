@@ -17,7 +17,7 @@ public class libro {
     private String Titulo;
     private String Autor;
     private int Paginas;
-
+    private String Edicion;
     public libro() {
     }
 
